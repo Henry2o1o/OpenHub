@@ -404,8 +404,8 @@
   <string name="unread">Ungelesen</string>
   <string name="unstar">Unstern</string>
   <string name="unstarred">Unbemerkt</string>
-  <string name="unwatch">Unwatch</string>
-  <string name="unwatched">Unbeobachtet</string>
+  <string name="unwatch">Unbeobachten</string>
+  <string name="unwatched">Wird nicht mehr beobachtet</string>
   <string name="upgrade">Aktualisierung</string>
   <string name="upgrade_apk_size">Apk Größe:</string>
   <string name="upgrade_info">Upgrade-Info:</string>
@@ -425,8 +425,8 @@
   <string name="view_archive_file_error">Die Archivdatei wird nicht unterstützt. Bitte laden Sie die Datei herunter, um ihren Inhalt anzuzeigen.</string>
   <string name="view_file">Datei ansehen</string>
   <string name="warning_dialog_tile">Warnung</string>
-  <string name="watch">Uhr</string>
-  <string name="watched">Schaute</string>
+  <string name="watch">Beobachten</string>
+  <string name="watched">Wird beobachtet</string>
   <string name="watchers">Beobachter</string>
   <string name="weekly">Wöchentlich</string>
   <string name="wiki">Wiki</string>
